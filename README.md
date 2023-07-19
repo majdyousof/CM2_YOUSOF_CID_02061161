@@ -3,4 +3,4 @@ This is a repository containing my CIVE50003 Second term coursework, which consi
 
 ![Image of bridge](https://github.com/majdyousof/MATLAB-Truss-FEA/assets/117210724/ca37ba1d-247e-4f9f-af74-074c1c05d2f5)
 
-The bridge experiences a point load of magnitude 2 MN that traverses its road nodes, which emulates the load of a travelling train. For more details, see the Contents commment in the [BRIDGE class](BRIDGE.m) file and the [coursework PDF](FEA-bridge-coursework.pdf). All Plots and some calculations were executed using the [plot file](plotfile.m), note that you must have the [BRIDGE class](BRIDGE.m) to be able to run the plot file.
+The bridge experiences a point load of magnitude 2 MN that traverses its road nodes, which emulates the load of a travelling train. For more details, see the Contents commment in the [BRIDGE class](code/BRIDGE.m) file and the [coursework PDF](FEA-bridge-coursework.pdf). All Plots and some calculations were executed using the [plot file](code/plotfile.m), note that you must have the [BRIDGE class](code/BRIDGE.m) to be able to run the plot file.
