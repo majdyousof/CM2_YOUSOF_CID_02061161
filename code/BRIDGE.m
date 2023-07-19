@@ -1,11 +1,12 @@
+% AUTHOR: MAJD YOUSOF
+% CIVE50003 COMPUTATIONAL METHODS II
+
 classdef BRIDGE
 
 % This class is used to construct an instance of a section of a truss
 % bridge, in which deflections can be represented visually thanks to
 % FEA.
 %
-% AUTHOR: MAJD YOUSOF
-% CIVE50003 COMPUTATIONAL METHODS II
 %
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%% CONTENTS %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
